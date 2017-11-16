@@ -1,9 +1,9 @@
 {
-	name: "ImageFilters.js",
-	version: "0.1.0",
-	description: "ImageFilters.js",
-	license: "MIT",
-	files: [
+	"name": "ImageFilters.js",
+	"version": "0.1.0",
+	"description": "ImageFilters.js",
+	"license": "MIT",
+	"files": [
 		"imagefilters.js"
 	]
 }
